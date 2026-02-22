@@ -1,5 +1,4 @@
-#HTML #CS
-Styled Button Page (Inline CSS)
+#HTML Styled Button Page (Inline CSS)
 
 This project demonstrates styling using inline CSS.
 
