@@ -1,2 +1,11 @@
-# html_styled_button_page
-Simple HTML page with styled button using CSS.
+# Styled Button Page (Inline CSS)
+
+This project demonstrates styling using inline CSS.
+
+### Concepts Used
+- inline CSS
+- button styling
+- basic design
+
+### Tech
+HTML5
